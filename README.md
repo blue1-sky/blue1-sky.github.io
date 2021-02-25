@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 blue1-sky
 
-You can use the [editor on GitHub](https://github.com/blue1-sky/blue1-sky.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+    这是我和人的第一个仓库和网站存放地方，嘻嘻嘻，有点小激动
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 介绍这个仓库
 
-### Markdown
+    hexo的静态网站，这个仓库用来存放我的个人网站，里面是我的网站代码，当然，我也是一个小白（可能连入门还算不上），但我会努力奋斗，朝着各位大牛前行（啊哈，好像跑题了）。
+  此网站代码摘用了许多大佬们的代码（小声bb：借鉴也是一种成长，我不是为了掩盖我不懂，哈哈哈哈），当然也有许多我知道和不知道的bug（其实我知道也没用，不懂怎么改），
+  如有对bug有修复方法和网站设计的建议，在下实在感激不尽。（各位大佬们帮帮小白，感谢感谢！）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blue1-sky/blue1-sky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 运用了啥
+    我也不懂啊，怪奇怪的，嘿嘿~.~
+    
+### 感谢
+    目前就我一个人，我感谢自己，哈哈哈哈 0.0
